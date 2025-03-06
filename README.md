@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... html, css, js and java
 - 💞️ I’m looking to collaborate on ... creating useful projects
 - 📫 How to reach me ... henry.doblado.d@hotmail.com
-- ⚡ Fun fact: ... emerald on league 
+- ⚡ Fun fact: ... diamond on league 
 
 <!---
 Buevo/Buevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
